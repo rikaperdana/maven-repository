@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Rika Perdana Sari" );
         System.out.println("Lagi Training nih... :) ");
+        System.out.println("coba edit lagi nh");
     }
 }
